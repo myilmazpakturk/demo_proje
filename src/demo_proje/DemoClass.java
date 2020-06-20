@@ -6,6 +6,7 @@ public class DemoClass {
 		System.out.println("ilk commit local repo dan");
 		System.out.println("ilk commit from localdan");
 		System.out.println("ikinci commit from repo dan");
+		System.out.println("ucuncu commit from repo dan");
 	}
 
 }
