@@ -8,6 +8,7 @@ public class DemoClass {
 		System.out.println("ikinci commit from repo dan");
 		System.out.println("ucuncu commit from repo dan");
 		System.out.println("dorduncu commit from repo dan");
+		System.out.println("besinci commit from local dan");
 	}
 
 }
